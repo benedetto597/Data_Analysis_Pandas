@@ -87,5 +87,4 @@ _______
 | Nombre | Contacto |
 |:-------------:| :-----:|
 | Edgar Benedetto | [Gmail](mailto:ejbg597@gmail.com) |
-| Tiffany Matamoros | [Gmail](mailto:tmonique.mg@gmail.com) |
 
